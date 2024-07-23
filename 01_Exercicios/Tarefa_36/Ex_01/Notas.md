@@ -1,4 +1,4 @@
-# Comentários sobre o exercício 01 - Tarefa 03
+# Comentários sobre o exercício 01 - Tarefa 3.6
 
 ## Primeira tentativa
 
