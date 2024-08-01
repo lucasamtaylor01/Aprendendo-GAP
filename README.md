@@ -6,7 +6,7 @@ Entre os dias 15 e 19 de julho de 2024, ocorreu no Instituto de Matemática e Es
 
 ## 📝 Sobre este Repositório
 
-Este repositório serve como um registro do meu progresso no aprendizado de GAP. Meus códigos foram corrigidos com a ajuda do ChatGPT.
+Este repositório serve como um registro do meu progresso no aprendizado de GAP. Meus códigos foram corrigidos com a ajuda do ChatGPT e o Copilot.
 
 ## 🧩 Exercícios
 
