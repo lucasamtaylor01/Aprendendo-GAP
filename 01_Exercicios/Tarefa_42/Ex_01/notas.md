@@ -6,13 +6,13 @@ No exercício, trabalhamos com dois grupos. O grupo SL e o grupo GL. Vamos defin
 
 - **Grupo geral linear** (*General linear group*): O grupo linear geral de grau $n$ é o conjunto de matrizes invertíveis $n×n$, juntamente com a operação de multiplicação de matrizes comuns. [3] Isto é:
 
-    $GL(n, \mathbb{K}) = \left\{A \in M_{n \times n} |A \text{ é invertível}  \right\}$
+    $GL(n, \mathbb{K}) = \{A \in M_{n \times n} |A \text{ é invertível}  \}$
 
     Onde $\mathbb{K}$ é um corpo e $n \geq 1$.
 
 - **Grupo linear especial** (*Special linear group*): O grupo linear especial é um subgrupo do grupo geral linear. Este grupo é composto pelas matrizes que compõe o grupo $GL$ e têm determinante 1. Formalmente, temos que:
 
-    $SL(n, \mathbb{K}) = \left\{A \in G(n, \mathbb{K}) | \det{A} = 1  \right\}$
+    $SL(n, \mathbb{K}) = \{A \in G(n, \mathbb{K}) | \det{A} = 1  \}$
 
 
 ## As funções em GAP
