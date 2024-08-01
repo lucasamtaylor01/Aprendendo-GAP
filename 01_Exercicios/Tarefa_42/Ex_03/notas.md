@@ -1,0 +1,1 @@
+# Observações e comentários do Exercício 01 - Seção 4.2
