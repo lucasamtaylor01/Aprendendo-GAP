@@ -5,8 +5,8 @@
 No exercício, trabalhamos com dois grupos. O grupo SL e o grupo GL. Vamos defini-los brevemente e apresentar como trabalhamos com estes na linguagem GAP.
 
 - **Grupo geral linear** (*General linear group*): O grupo linear geral de grau $n$ é o conjunto de matrizes invertíveis $n×n$, juntamente com a operação de multiplicação de matrizes comuns. [3] Isto é:
-
-    $GL(n, \mathbb{K}) = \{A \in M_{n \times n} |A \text{ é invertível}  \}$
+    
+    $GL(n, \mathbb{K}) = \{ A \in M_{n \times n} \mid A \text{ é invertível} \}$
 
     Onde $\mathbb{K}$ é um corpo e $n \geq 1$.
 
@@ -29,7 +29,7 @@ Primeiramente, vale destacar que há duas maneiras equivalentes de construir um 
 
 ```gap
 GeneralLinearGroup([filt, ]d, R)
-GL([filt, ]d, R)`
+GL([filt, ]d, R)
 ```
 
 Ambas recebem os mesmos parâmetros:
