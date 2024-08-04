@@ -15,7 +15,7 @@ Neste arquivo, vamos:
 
     **Observação**: Uma permutação par é uma permutação que pode ser expressa como um número par de transposições (trocas de dois elementos). 
 
-**Note que:** $A_n$ é um subconjunto de $S_n$. 
+**Note que:** $A_n$ é um subgrupo de $S_n$. 
 
 
 ## 02. Aplicações em GAP
