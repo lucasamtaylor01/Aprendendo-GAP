@@ -2,6 +2,8 @@
 
 i := 10;
 repeat
-    Print("O cubo de ", i, " é ", i^3, "\n");
+    if IsEvenInt(i) then
+        Print("O cubo de ", i, " é ", i^3, "\n");
+    fi;
     i := i + 1;
     until i = 21;

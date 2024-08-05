@@ -3,6 +3,8 @@
 i := 10;
 
 while i <= 20 do
-    Print("O cubo de ", i, " é ", i^3, "\n");
+    if IsEvenInt(i) then
+        Print("O cubo de ", i, " é ", i^3, "\n");
+    fi;
     i := i + 1;
 od;
