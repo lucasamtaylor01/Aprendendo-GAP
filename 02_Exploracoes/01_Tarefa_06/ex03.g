@@ -9,11 +9,6 @@ end;
 # Crie o grupo cíclico Z_7
 Z7 := CyclicGroup(7);
 
-# Encontre e exiba a série de composição de Z_7
-Print("Série de composição de Z_7:\n");
-compSeriesZ7 := CompositionSeries(Z7);
-DisplayCompSeries(compSeriesZ7);
-
 # Crie o produto direto Z_7 x Z_7
 Z7xZ7 := DirectProduct(CyclicGroup(7), CyclicGroup(7));
 
